@@ -1,0 +1,2 @@
+Köylü mekanikleri:
+    Köylüler artabilir bir IQ'ya ve öğrenim çarpanına sahiptir, IQ az artar ve anne babaya fazlasıyla bağlıdır.

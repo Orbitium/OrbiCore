@@ -1,0 +1,7 @@
+Oyuncular meslek vermek istedikleri türde bir parşomen üretir(mesela çiftçi parşomeni)
+Daha sonra o parşomen ile köylüye sağ tıklayarak ona "çiftçi" mesleğini verirler
+Köylüler meslek aldıklarında veya seviye atladıklarında RASGELE olarak takaslar kazanır(takas edebilecekleri ürünler belirli)
+Eğer oyuncu isterse "değişim" parşomeni ile köylünün tüm sattığı eşyaları tek parşomen ile tekrardan rasgele olacak şekilde
+değiştirebilir. Köylülerin seviye atlaması için takas yapmak yeterli değildir. Köylülerin seviye atlamalı
+oyuncular tarafından onlara verilecek "seviye atlama parşomeni" ile olur ve her seviyenin kendine ait bir üretimi
+bulunur.

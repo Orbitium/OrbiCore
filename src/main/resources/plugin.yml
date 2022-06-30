@@ -1,0 +1,76 @@
+name: OrbiCore
+version: '${project.version}'
+main: com.orbi.orbimc.OrbiCore
+api-version: 1.18
+depends: [Votifier]
+commands:
+
+  ayrıştırıcı:
+  ayristirici:
+  a:
+  ayristir:
+  ayrıştır:
+
+
+  karbon:
+  k:
+
+  uçuş:
+  ucus:
+  u:
+
+  buluttarla:
+  element:
+  depo:
+  enerji:
+
+  kayıt:
+  kayit:
+
+  giriş:
+  giris:
+  g:
+
+  rodyum:
+  spawn:
+  orbload:
+  discord:
+  warp:
+  görevler:
+  gorevler:
+
+  tpa:
+
+  referans:
+
+  jeneratör:
+  jenerator:
+
+  üretimler:
+  uretimler:
+
+  yaratık:
+  yaratik:
+
+  genel:
+  yakın:
+  yakin:
+
+
+  infoadd:
+    permission: per.a
+  about:
+    permission: per.a
+  pl:
+    permission: per.a
+  ?:
+    permission: per.a
+  ver:
+    permission: per.a
+  version:
+    permission: per.a
+  help:
+    permission: per.a
+  test:
+    permission: per.a
+
